@@ -1,0 +1,1 @@
+A very basic discord bot for my friend group discord server.
