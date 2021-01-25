@@ -19,7 +19,7 @@ let module_math = require("./modules/math.js");
 
 /* command list */
 let command_list = new Map([
-  ["$e", module_math.evaluate]
+  ["$evaluate", module_math.evaluate]
 ]);
 
 /* login */
